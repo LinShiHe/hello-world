@@ -1,2 +1,2 @@
 # hello-world
-this is my fist repostory . (Founded in November 12,2018)
+Hello everyone ! This is my first object,today is November 12,2018;
